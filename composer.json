@@ -1,0 +1,16 @@
+{
+    "name": "jaravel/laravel-ucenter",
+    "description": "ucenter client for laravel",
+    "license": "MIT",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jaravel\\Ucenter\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
