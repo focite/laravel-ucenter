@@ -2,20 +2,20 @@
 
 ### 安装
 
-* [Packagist](https://packagist.org/packages/jaravel/ucenter)
-* [GitHub](https://github.com/jaravel/ucenter)
+* [Packagist](https://packagist.org/packages/focite/ucenter)
+* [GitHub](https://github.com/focite/ucenter)
 
 只要在你的 `composer.json` 文件require中加入下面内容，就能获得最新版.
 
 ~~~
-"jaravel/ucenter": "~1.0.0"
+"focite/ucenter": "~1.0.0"
 ~~~
 
 然后需要运行 "composer update" 来更新你的项目  
 
 或运行
 ~~~
-composer require jaravel/ucenter
+composer require focite/ucenter
 ~~~
 
 安装完后，在 `app/config/app.php` 文件中找到 `providers` 键，
